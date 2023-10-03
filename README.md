@@ -8,7 +8,7 @@ This repository contains all the coding challenges for the DIO Logic Programming
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/[your_username]/DIO-Logic-Programming-Challenges.git
+git clone https://github.com/lgustavopuga/DIO-Logic-Programming-Challenges.git
 ```
 
 
