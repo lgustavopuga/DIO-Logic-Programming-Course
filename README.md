@@ -1,8 +1,3 @@
-# DIO-Logic-Programming-Course
-This repository contains all the coding challenges for the DIO Logic Programming course.
-
-**README.md**
-
 ## DIO Logic Programming Course Challenges
 
 This repository contains all the coding challenges for the DIO Logic Programming course. These challenges are designed to help you learn the basics of logic programming, including variables, expressions, predicates, and rules.
